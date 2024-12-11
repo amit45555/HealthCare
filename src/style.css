@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#patient-info {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#patient-info img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid black;
+}
